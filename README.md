@@ -33,7 +33,6 @@ https://www.mongodb.com/try/download/community-edition
 Bilgisayar terminalini açıp `npm i -g @nestjs/cli` komutunu çalıştırın
 NOT: npm recognized gibi bir hata alıyorsanız. Bilgisayarı bu durumda yeniden başlatın ve deneyin
 
-
 ## Proje Clone Kısmı
 Mevcut Repository kısmında CODE alanından kodları zip olarak indirebilir.
 ya da
