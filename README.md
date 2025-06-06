@@ -20,7 +20,6 @@ yüksek ihtimalle kusursuz kurulacaktır
 bilgisayarınızda node varsa yeniden yüklemeyin >18 olması yeterli
 
 
-
 ### MongoDB Compass
 Burada 2 adet program yüklenecek
 
