@@ -1,3 +1,5 @@
+
+
 # Algoritma
 
 Proje Nestjs(Backend) ve React(Frontend) altyapısı ile kurulmuştur. Veritabanı olarak MongoDB kullanılmıştır.
