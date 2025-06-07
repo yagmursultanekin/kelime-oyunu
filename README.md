@@ -13,7 +13,6 @@ Nestjs CLI
 node.js kurulumu için ilk önce şu adrese gitmeli ve Current versiyonunu indirmelisiniz.
 https://nodejs.org/en/download/prebuilt-installer
 
-
 Node.js kurulumunu yaptıktan sonra (terminal üzerinden node -v / npm -v) yapıp kontrol edin
 yüksek ihtimalle kusursuz kurulacaktır
 bilgisayarınızda node varsa yeniden yüklemeyin >18 olması yeterli
