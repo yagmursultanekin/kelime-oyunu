@@ -54,6 +54,4 @@ Bu durumdan sonra projeniz hem veritabanında hem backend(nest) hem frontend(web
 MongoDB Compass uygulamasını açın
 mongodb://localhost:27017 ya da mongodb://localhost:27017/Algoritma
 olarak bağlantı kurun
-## yapan kisiler 
- fatma aytas 
- yagmur sultan ekin 
+
